@@ -1,6 +1,6 @@
 # Hi, I’m Harisai 👋
 
-AI & Software Engineer | Student Entrepreneur  
+AI & Software Engineer 
 
 Focused on building scalable AI systems and real-world products.
 
